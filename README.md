@@ -23,7 +23,7 @@ Rocketshoes is a shoe e-commerce website. It was the third challenge from the [I
 # 📐 Layout
 
 <div align="center">
-  <img src="./.github/watchme.gif" width="600px" alt="Demonstration of the app">
+  <img src="./.github/rocketshoes.gif" width="600px" alt="Demonstration of the app">
 </div>
 
 ### 🚀 Tecnologies
